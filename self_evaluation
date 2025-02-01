@@ -1,0 +1,8 @@
+Self-Evaluation:
+
+- The program passes all functional tests with correct outputs.
+- Memory management is handled properly with no memory leaks detected.
+- Runtime performance is good, but there’s room for improvement as Tests 6 and 7 exceed the expected runtime threshold.
+- The code is well-structured, and I’ve followed proper coding practices.
+- Overall, I’m satisfied with the program’s correctness and will work on optimizing performance further.
+
